@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.julakk.blockworld",
+    "sha256_cert_fingerprints": ["56:E8:15:9E:AB:DF:8C:D6:42:92:D5:63:31:A3:75:D2:97:10:1B:8E:E2:31:40:12:96:F3:8D:3C:7D:C5:88:72"]
+  }
+}]
