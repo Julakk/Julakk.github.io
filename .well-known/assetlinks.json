@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.julakk.blockworld",
-    "sha256_cert_fingerprints": ["56:E8:15:9E:AB:DF:8C:D6:42:92:D5:63:31:A3:75:D2:97:10:1B:8E:E2:31:40:12:96:F3:8D:3C:7D:C5:88:72"]
+    "sha256_cert_fingerprints": ["80:16:40:88:11:F0:7F:5E:C1:94:04:88:34:9A:DF:49:23:60:B1:5D:67:4C:5C:9A:F8:81:42:C8:8D:CB:C7:75"]
   }
 }]
